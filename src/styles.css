@@ -1,0 +1,16 @@
+.App {
+  font-family: georgi;
+  text-align: center;
+}
+
+.card-container {
+  border: 3px solid;
+  border-color: lightsalmon;
+  background-color: lightgoldenrodyellow;
+  margin: 8px;
+}
+
+body {
+  color: black;
+  background-color: rgb(151, 211, 211);
+}
